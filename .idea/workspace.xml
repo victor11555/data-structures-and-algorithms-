@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f58392c4-6cf7-4389-b5cc-48faacda8069" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewars/Moving Zeros To The End/Moving Zeros To The End | Codewars.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +20,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1oFBkfKA9qMbGIolkvhekebErq4" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -49,7 +50,8 @@
       <option name="presentableId" value="Default" />
       <updated>1612872602803</updated>
       <workItem from="1612872606808" duration="1129000" />
-      <workItem from="1612874178946" duration="1839000" />
+      <workItem from="1612874178946" duration="2182000" />
+      <workItem from="1612964861580" duration="321000" />
     </task>
     <servers />
   </component>
@@ -66,5 +68,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
